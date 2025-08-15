@@ -6,7 +6,7 @@
 
 - 🌍  I'm based in Indonesia
 
-- 🌱 I’m currently learning **Express.Js and Laravel**
+- 🌱 I’m currently learning **Next.js and Laravel**
 
 - 💬 Ask me about **Express.Js and Laravel**
 
