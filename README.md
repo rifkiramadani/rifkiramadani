@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js and Laravel**
 
-- 💬 Ask me about **Express.Js and Laravel**
+- 💬 Ask me about **Next.js and Laravel**
 
 - 📫 How to reach me **rifkiramadani724@gmail.com**
 
