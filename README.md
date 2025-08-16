@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rifky Ramadani</h1>
 <h2 align="center">Web Developer Enthusiast</h2>
-<img align="right" alt="Coding" width="500" src="[https://i.pinimg.com/originals/be/06/60/be0660cd5435af01c35e05a4c4b4a9c4.gif](https://64.media.tumblr.com/6a9a0fd7b20bc17671d4f3089ecf5724/tumblr_orjbdhJ5ll1qciqqno2_500.gif)">
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/be/06/60/be0660cd5435af01c35e05a4c4b4a9c4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkiramadani&label=Profile%20views&color=0e75b6&style=flat" alt="rifkiramadani" /> </p>
 
