@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rifky Ramadani</h1>
 <h2 align="center">Web Developer Enthusiast</h2>
-<img align="right" alt="Coding" width="450" src="https://i.redd.it/jqhjbjduj30e1.gif">
+<img align="right" alt="Coding" width="380" src="https://i.redd.it/jqhjbjduj30e1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkiramadani&label=Profile%20views&color=0e75b6&style=flat" alt="rifkiramadani" /> </p>
 
