@@ -10,26 +10,30 @@
 <!-- Subheading -->
 <h3 align="center">Information Systems Student | Web & Mobile Developer Enthusiast | Tech Explorer</h3>
 
-<!-- Gif + About Me -->
-<p>
-  <img align="right" alt="Arthur Morgan" width="280" src="https://i.redd.it/jqhjbjduj30e1.gif">
-
 <!-- Profile Views -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rifkyramadani&label=Profile%20views&color=0e75b6&style=flat" alt="rifkiramadani" /> 
 </p>
 
+<!-- About Me + GIF -->
 
-  ## 🌟 About Me  
-  <ul>
-    <li>🎓 Undergraduate <b>Information Systems</b> student at <b>University of Bengkulu</b>  </li>
-    <li> 🤝 Active in organizations: <b>GenBI (Generasi Baru Indonesia)</b>  & <b>Ikatan Putra Putri Kampus Provinsi Bengkulu</b> </li>
-    <li>🌱 Currently exploring <b>Laravel, Next.js, Flutter</b>  </li>
-    <li>🚀 Passionate about <b>Full Stack Development</b></li>
-    <li>💡 Interested in <b>digital solutions for education and community empowerment</b></li>
-  </ul
+<table>
+  <tr>
+    <td width="60%" valign="top">
+  <h2 style="margin-top: 0;">🌟 About Me</h2>
+      
+  - 🎓 Undergraduate **Information Systems** student at **University of Bengkulu**  
+  - 🤝 Active in organizations: **GenBI (Generasi Baru Indonesia)** & **Ikatan Putra Putri Kampus Provinsi Bengkulu**  
+  - 🌱 Currently exploring **Laravel, Next.js, Flutter**  
+  - 🚀 Passionate about **Full Stack Development**  
+  - 💡 Interested in **digital solutions for education and community empowerment**  
   
-</p>
+      </td>
+      <td width="40%">
+            <img alt="Arthur Morgan" width="auto" src="https://i.redd.it/jqhjbjduj30e1.gif">
+      </td>
+  </tr>
+</table>
 
 ---
 
