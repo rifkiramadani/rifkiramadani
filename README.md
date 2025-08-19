@@ -1,19 +1,33 @@
-<img alt="Hi, I'm Muhammad Rifky Ramadani" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi👋,%20I'm%20Muhammad%20Rifky%20Ramadani&fontSize=40&fontAlignY=40&animation=twinkling" style="width: 100%;" />
+<!-- Banner -->
+<p align="center">
+  <img alt="Hi, I'm Muhammad Rifky Ramadani" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi👋,%20I'm%20Muhammad%20Rifky%20Ramadani&fontSize=35&fontAlignY=40&animation=twinkling" style="width: 100%;" />
+</p>
 
+<!-- Typing SVG -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+Enthusiast" alt="Typing SVG" />
 </h2>
+
+<!-- Subheading -->
 <h3 align="center">Information Systems Student | Web & Mobile Developer Enthusiast | Tech Explorer</h3>
-<img align="right" alt="Arthur Morgan" width="300" src="https://i.redd.it/jqhjbjduj30e1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkiramadani&label=Profile%20views&color=0e75b6&style=flat" alt="rifkiramadani" /> </p>
+<!-- Gif + About Me -->
+<p>
+  <img align="right" alt="Arthur Morgan" width="280" src="https://i.redd.it/jqhjbjduj30e1.gif">
 
-## 🌟 About Me
-- 🎓 Undergraduate **Information Systems** student at University of Bengkulu  
-- 🤝 Active in campus organizations: **Ikatan Putra Putri Kampus Provinsi Bengkulu** & **GenBI (Generasi Baru Indonesia)**  
-- 🌱 Currently exploring **Laravel, Next.js, Flutter, **  
-- 🚀 Passionate about **Full Stack Development**  
-- 💡 Interested in **digital solutions for education, and community empowerment**
+<!-- Profile Views -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rifkyramadani&label=Profile%20views&color=0e75b6&style=flat" alt="rifkiramadani" /> 
+</p>
+
+
+  ## 🌟 About Me  
+  - 🎓 Undergraduate **Information Systems** student at *University of Bengkulu*  
+  - 🤝 Active in organizations: **Ikatan Putra Putri Kampus Provinsi Bengkulu** & **GenBI (Generasi Baru Indonesia)**  
+  - 🌱 Currently exploring **Laravel, Next.js, Flutter**  
+  - 🚀 Passionate about **Full Stack Development**  
+  - 💡 Interested in **digital solutions for education and community empowerment**
+</p>
 
 ---
 
