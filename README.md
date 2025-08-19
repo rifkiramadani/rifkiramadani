@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+Enthusiast" alt="Typing SVG" />
 </h2>
 <h3 align="center">Information Systems Student | Web & Mobile Developer Enthusiast | Tech Explorer</h3>
-<img align="right" alt="Arthur Morgan" width="380" src="https://i.redd.it/jqhjbjduj30e1.gif">
+<img align="right" alt="Arthur Morgan" width="300" src="https://i.redd.it/jqhjbjduj30e1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkiramadani&label=Profile%20views&color=0e75b6&style=flat" alt="rifkiramadani" /> </p>
 
