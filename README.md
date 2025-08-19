@@ -22,11 +22,14 @@
 
 
   ## 🌟 About Me  
-  - 🎓 Undergraduate **Information Systems** student at *University of Bengkulu*  
-  - 🤝 Active in organizations: **Ikatan Putra Putri Kampus Provinsi Bengkulu** & **GenBI (Generasi Baru Indonesia)**  
-  - 🌱 Currently exploring **Laravel, Next.js, Flutter**  
-  - 🚀 Passionate about **Full Stack Development**  
-  - 💡 Interested in **digital solutions for education and community empowerment**
+  <ul>
+    <li>🎓 Undergraduate <b>Information Systems</b> student at <b>University of Bengkulu</b>  </li>
+    <li> 🤝 Active in organizations: <b>GenBI (Generasi Baru Indonesia)</b>  & <b>Ikatan Putra Putri Kampus Provinsi Bengkulu</b> </li>
+    <li>🌱 Currently exploring <b>Laravel, Next.js, Flutter</b>  </li>
+    <li>🚀 Passionate about <b>Full Stack Development</b></li>
+    <li>💡 Interested in <b>digital solutions for education and community empowerment</b></li>
+  </ul
+  
 </p>
 
 ---
