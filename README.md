@@ -1,12 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img alt="Hi, I'm Muhammad Rifky Ramadani" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi👋,%20I'm%20Muhammad%20Rifky%20Ramadani&fontSize=35&fontAlignY=40&animation=twinkling" style="width: 100%;" />
-</p>
-
+  <img alt="Hi, I'm Muhammad Rifky Ramadani" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi👋,%20I'm%20Muhammad%20Rifky%20Ramadani&fontSize=35&fontAlignY=40&animation=twinkling" style="width: 100%;" />
 <!-- Typing SVG -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+Enthusiast" alt="Typing SVG" />
 </h2>
+</p>
 
 <!-- Subheading -->
 <h3 align="center">Information Systems Student | Web & Mobile Developer Enthusiast | Tech Explorer</h3>
