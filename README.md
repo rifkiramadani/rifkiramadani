@@ -10,7 +10,7 @@
 <!-- Subheading -->
 <h3 align="center">Information Systems Student | Web & Mobile Developer Enthusiast | Tech Explorer</h3>
 
-<!-- Profile Views -->
+<!-- Profile Viewss -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rifkyramadani&label=Profile%20views&color=0e75b6&style=flat" alt="rifkiramadani" /> 
 </p>
