@@ -46,7 +46,7 @@
 `HTML` | `CSS` | `React.js` | `Tailwind CSS` | `Bootstrap`
 
 ### ⚙️ Backend & Database
-`Laravel` | `Express.js` | `MySQL` | `PostgreSQL` | `Firebase`
+`Laravel` | `Express.js` | `MySQL` | `PostgreSQL` | `Firebase` | `SQLite`
 
 ### 📱 Mobile Development
 `Flutter` | `Dart`
