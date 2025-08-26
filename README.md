@@ -40,7 +40,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Scripting
-`JavaScript` | `PHP` | `TypeScript`
+`JavaScript` | `PHP` | `TypeScript` | `Dart`
 
 ### 🎨 Frontend
 `HTML` | `CSS` | `React.js` | `Tailwind CSS` | `Bootstrap`
