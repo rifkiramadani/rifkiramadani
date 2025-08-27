@@ -77,7 +77,7 @@
 
 ---
 
-⭐️ From [Muhammad Rifky Ramadani](https://github.com/rifkyramadani)
+⭐️ From [Muhammad Rifky Ramadani](https://github.com/rifkiramadani)
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
