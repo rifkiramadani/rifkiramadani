@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Muhammad%20Rifky%20Ramadani&fontSize=38&fontColor=00ffcc&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20Information%20Systems%20Student&descSize=16&descAlignY=75&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Muhammad%20Rifky%20Ramadani&fontSize=38&fontColor=00ffcc&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20Enthusiast%20%7C%20Information%20Systems%20Student&descSize=16&descAlignY=75&descColor=a78bfa" width="100%" />
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=👨‍💻+Building+the+Future%2C+One+Line+at+a+Time;🚀+Full-Stack+%7C+Mobile+%7C+Cloud+Enthusiast;🌱+Always+Learning%2C+Always+Growing;💡+Turning+Ideas+into+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=👨‍💻+Building+the+Future%2C+One+Line+at+a+Time;🚀+Full-Stack+%7C+Mobile+%7C+Enthusiast;🌱+Always+Learning%2C+Always+Growing;💡+Turning+Ideas+into+Digital+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -164,7 +164,7 @@ const rifky = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=2000&color=a78bfa&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Why+write+code+when+AI+can+do+it+better%3F+😎;Copy+Paste+Developer+%7C+Professional+Stack+Overflow+Reader+😂;The+real+dev+experience%3A+Google+%2B+AI+%2B+pray+it+works+🙏;Still+a+developer%2C+just+with+better+tools+💡" alt="Relatable Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=2000&color=a78bfa&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Why+write+code+when+AI+can+do+it+better%3F+😎;The+real+dev+experience%3A+Google+%2B+AI+%2B+pray+it+works+🙏;Still+a+developer%2C+just+with+better+tools+💡" alt="Relatable Quote" />
 
 <br/>
 
