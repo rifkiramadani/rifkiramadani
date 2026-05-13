@@ -41,7 +41,7 @@ const rifky = {
 
   currentlyLearning: ["Next.js", "Supabase", "Flutter"],
   passion: "Digital solutions for education 💡",
-  funFact : "I debug with console.log() and I'm proud 😄",
+  todaysWord : "syududu 😄",
 };
 ```
 
