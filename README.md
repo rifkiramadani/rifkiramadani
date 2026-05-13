@@ -43,7 +43,7 @@ const rifky = {
   passion : "Digital solutions for education 💡",
   funFact : "I copy from AI and call it coding 😭😂",
 };
-` ` `
+```
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -174,5 +174,3 @@ const rifky = {
 
 </div>
 ```
-
-> **Catatan:** Pada bagian code block TypeScript di dalam tabel, tanda ` ` ` (backtick triple) di atas saya kasih spasi agar tidak bentrok dengan tampilan chat. Pas kamu paste ke GitHub, hapus spasi di antara backtick itu ya — jadi ` ``` ` tanpa spasi.
